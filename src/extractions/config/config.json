@@ -1,0 +1,20 @@
+{
+	"source": {
+		"api": {
+			"dummy": "https://dummy.com/endpoint"
+    	},
+		"csv": {
+			"dummy": "dummy.csv"
+		},
+		"scrap": {
+			"dummy": "https://dummy.com/page"
+		},
+		"bot": {
+			"dummy": "https://dummy.com/signin",
+            "trivago": "https://www.trivago.com/es"
+		},
+        "database":{
+            "dummy": "database_name"
+        }             
+	}
+}
